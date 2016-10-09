@@ -29,7 +29,9 @@ configuration option can be set as an obj like, and of course you can use a defa
 	],
 	"pluginsConfig": {
 		"resources": {
-			"type": "local"
+			"type": "local",
+			"repo": "aleen42/PersonalWiki",
+            "branch": "master"
 		}
 	}
 }
@@ -39,6 +41,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 
 * ==================== **1.0.0 Initial release** ====================
 	* 1.0.6 fix bugs
+	* 1.0.7 update readme
 
 #### :fuelpump: How to contribute
 
