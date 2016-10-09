@@ -44,6 +44,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 	* 1.0.7 update readme
 	* 1.0.8 update
 	* 1.0.9 test cases
+	* 1.1.2 fix bugs
 
 #### :fuelpump: How to contribute
 

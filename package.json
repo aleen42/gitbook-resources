@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-resources",
-  "version": "1.0.9",
+  "version": "1.1.2",
   "description": "a gitbook plugin optional resources loading of gitbook",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
