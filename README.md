@@ -43,6 +43,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 	* 1.0.6 fix bugs
 	* 1.0.7 update readme
 	* 1.0.8 update
+	* 1.0.9 test cases
 
 #### :fuelpump: How to contribute
 
