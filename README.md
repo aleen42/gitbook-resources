@@ -1,6 +1,6 @@
 ## resources
 
-[![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#) [![GitHub issues](https://img.shields.io/github/issues/aleen42/gitbook-resources.svg)](https://github.com/aleen42/gitbook-resources/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/gitbook-resources/master/LICENSE) [![Gitter](https://badges.gitter.im/aleen42/gitbook-resources.svg)](https://gitter.im/aleen42/gitbook-resources?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+![gitbook](https://camo.githubusercontent.com/cf48327b2fdeec4a1f072204f8868f25865b39ac/68747470733a2f2f7261776769742e636f6d2f616c65656e34322f6261646765732f6d61737465722f7372632f676974626f6f6b2e737667) [![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#) [![GitHub issues](https://img.shields.io/github/issues/aleen42/gitbook-resources.svg)](https://github.com/aleen42/gitbook-resources/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/gitbook-resources/master/LICENSE) [![Gitter](https://badges.gitter.im/aleen42/gitbook-resources.svg)](https://gitter.im/aleen42/gitbook-resources?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![npm](https://img.shields.io/npm/v/gitbook-plugin-resources.svg)](https://www.npmjs.com/package/gitbook-plugin-resources) [![Build Status](https://travis-ci.org/aleen42/gitbook-resources.svg?branch=master)](https://travis-ci.org/aleen42/gitbook-resources) [![devDependency Status](https://david-dm.org/aleen42/gitbook-resources/dev-status.svg)](https://david-dm.org/aleen42/gitbook-resources#info=devDependencies) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-resources.svg)](https://www.npmjs.com/package/gitbook-plugin-resources)
 
@@ -49,6 +49,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 	* 1.2.1 fix bugs
 	* 1.2.5 fix bugs
 	* 1.2.6 fix bugs
+	* 1.2.7 update readme
 
 #### :fuelpump: How to contribute
 
