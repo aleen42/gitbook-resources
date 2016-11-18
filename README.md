@@ -48,6 +48,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 	* 1.1.9 fix bugs
 	* 1.2.1 fix bugs
 	* 1.2.5 fix bugs
+	* 1.2.6 fix bugs
 
 #### :fuelpump: How to contribute
 
