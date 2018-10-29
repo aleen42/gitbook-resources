@@ -51,6 +51,7 @@ configuration option can be set as an obj like, and of course you can use a defa
 	* 1.2.6 fix bugs
 	* 1.2.7 update readme
 	* 1.3.0 extend gitlab type and fix typo of README
+	* 1.3.1 support SVG
 
 #### :fuelpump: How to contribute
 
